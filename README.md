@@ -1,6 +1,6 @@
 # Digging Deeper 
 
-Exploratory and Inferential analysis of indicators related to female autonomy in different regions of the world 
+Exploratory and Inferential analysis of indicators related to female autonomy in different regions of the world. Refer to female_autonomy_analysis_report folder for detailed analysis of results
 
 ## Project: Investigating Effect of Female Literacy and Autonomy in Society on Child Mortality Rates
 * Data Source: Gapminder which collects information about how people live their lives in different countries, tracked across the years, on hundreds of different indicators.
